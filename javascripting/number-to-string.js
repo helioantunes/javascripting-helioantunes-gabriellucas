@@ -1,3 +1,4 @@
 // Feito por Helio Antunes e Gabriel Lucas
-number = 123456789
-console.log(number)
+let n = 128
+n = n.toString()
+console.log(n)
